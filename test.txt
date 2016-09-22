@@ -5,3 +5,7 @@ Git updated a line
 
 Adding new line after myhTestV1.0
 
+Adding new line after myTestV1.2
+
+
+
